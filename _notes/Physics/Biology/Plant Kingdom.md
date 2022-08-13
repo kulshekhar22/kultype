@@ -1,0 +1,76 @@
+# Plant Kingdom
+- found in terrestrial and aquatic habitats, 
+- eukaryotic, multicellular
+- unicellular forms (like chlorella)
+- Its classification according to A.W.Eichler
+	- Cryptogamae
+		- flowerless, seedless, spore bringing plants
+		- example, ferns, liches, algae
+		- its types :
+			- Thallophyta
+			- Bryophyta
+			- Pteridophyta
+	- Phanerogamae
+		- flower bearing
+		- seed producing 
+		- example: mango, banyan dicot
+		- its types :
+			- Gymospermae
+			- Angiospermae
+- Its Types :
+	- Algae
+		- it is chlorophyll-bearing, simple, thalloid, autotrophic and largely aquatic organisms.
+		- useful, being photosynthetic.
+		- increase level of oxygen in environment.
+		- chlorela a unicellular algae rich in proteins used as food even by space travellers.
+		-  They reproduce,
+			- vegetatively, by fragmentation, each fragment develops into thallus (plant body of algae. )
+			- asexually, by production of different types of spores. most common is zoospores
+			- sexually, by fusion of two gametes. it can be 1. flagellated and similar in size 2. Non-flagellated and similar in size. This type of reproduction called isogamous.
+			- fusion of two dissimilar gametes called anisogamous.
+			- fusion of (large, non-motile, female) with (smaller, motile, male) called oogamous
+		- Its types :
+			- Chlorophyceae (green algae)
+				- unicellular, colonial or filamentous
+				- green due to dominance of chlorophyll a and b.
+				- most have one or more storage bodies called Pyrenoids(it contain proteins.)
+				- some store food in oil droplets form.
+				- rigid cell wall.
+				- Reproduce :
+					- vegetatively -> fragmentation/spore formation
+					- asexually -> flagellated zoospores
+					- sexually -> isogamous, anisogamous or oogamous.
+				- example : volvox, Ulothrix, Spirogyra and chara, Euglena.
+				- source of food(high ammount of protein and vitamins).
+				- used in seawage treatment plants.
+				- fix atmospheric nitrogen.
+			- Phaeophyceae(Brown algae)
+				- found in marine habitat
+				- possess chlorophyll-a and -c
+				- vary in colour from olive green to various shades of brown (depend upon pigment).
+				- food stored as complex carbohydrates in laminarin or mannitol form.
+				- vegetative cells are covered by coating of algin.
+				- plant bodies attached to substratum by a holdfast. 
+				- has a stalk, the stipe. 
+				- leaf like photosynthetic organ the frond.
+				- reproduction:
+					- vegetatively -> fragmentation 
+					- asexually -> biflagellate zoospores
+					- sexually -> isogamous, anisogamous or oogamous. Union of gametes may takes place in water. 
+				- example : Ectocarpus, Dictyota, Laminaria and fucus.
+			- Rodophyceae (Red algae)
+				- multicellular and complex life cycle.
+				- predominance of red pigment, chlorophyll-a and -d, r-phycoerythrin.
+				- found in Marine, and warmer areas.
+				- food stored as floridean starch(similar to glycogen in structure)
+				- vegetatively -> fragmentation
+				- asexually -> non-motile spores
+				- sexually -> non-motile gametes(it is oogamous).
+				- example : polysiphonia, porphyra, Gracilaria and Gelidium.
+				- source of agar-agar(a good culture medium)
+				- used as food in soups, also as medicine, in polish as paints, also in cosmotics.
+	- Bryophytes
+		- also called amphibians of plant kingdom because they need water for sexual reproduction.
+		- found in humid and shaded localities, moist area of hill.
+		- 
+	- 

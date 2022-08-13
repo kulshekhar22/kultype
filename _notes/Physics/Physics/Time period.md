@@ -1,0 +1,2 @@
+# Time Period
+For a given periodic motion,  It is defined as the time taken to complete one trip of its repeated motion . In other words , we can say that it the time take to compete one revolution if it is revolving or compete one cycle. Mathematically it is denoted by $T$ and written as $T = \frac{no~of~trips}{Total~time~taken}$ . Its unit has $cycle~per~second$ ($Hz$). Multiplicative  inverse is called [[Frequency]]

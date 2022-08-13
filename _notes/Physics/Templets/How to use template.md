@@ -1,0 +1,8 @@
+-   Level 1: [Core Principles](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Core%20Principes.md) template
+-   Level 2: Yearly
+    -   [Yearly OKRs](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Yearly%20OKRs.md)
+    -   individual [OKR template](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Yearly%20Objective.md)
+    -   [Yearly Review](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Yearly%20Review.md)
+-   Level 3: [Monthly Initiatives](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Monthly%20Review.md) in the form of a monthly review
+-   Level 4: [Weekly Goals](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Weekly%20Review.md) and review
+-   Level 5: [Daily](https://github.com/nicolevanderhoeven/obsidian-okrs/blob/main/Daily.md) template
