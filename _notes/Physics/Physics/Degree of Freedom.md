@@ -14,5 +14,5 @@ No of generalized co-ordinate for $3D,2D,1D ~and~0D$ object is six $(x_1,x_2,x_3
 
 
  ## Questions
-![[Drawing 2022-07-27 20.37.45_rigidbody question.excalidraw]]
+![]Drawing 2022-07-27 20.37.45_rigidbody question.excalidraw
  
