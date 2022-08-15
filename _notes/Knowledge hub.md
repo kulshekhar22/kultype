@@ -5,6 +5,7 @@ title: Have a Fun
 ### Welcome!
 Welcome to Knowledge Hub 
 
+ 
 Here Take a look at [[Newton's Laws of Motion]] [[Simple Harmonic Motion]]
 						[[Accuracy and Precision]]
 						[[Electrostatics]]
