@@ -3,7 +3,7 @@ title: Have a Fun
 ---
 
 
-### Welcome to Knowledge Hub !
+### Welcome to Keep it simple, stupid !
 
  
 Here Take a look at [[Newton's Laws of Motion]] [[Simple Harmonic Motion]]
